@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj": {}
+    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
+    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
+        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
         "projectName": "Api_Crud_EF.Application",
-        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
+        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\obj\\",
+        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj": {
+    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj",
+        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj",
         "projectName": "Api_Crud_EF.Data",
-        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj",
+        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Data\\obj\\",
+        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
-                "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj"
+              "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
+                "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj"
               }
             }
           }
@@ -113,11 +113,19 @@
               "target": "Package",
               "version": "[7.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.Relational": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
             }
@@ -142,14 +150,14 @@
         }
       }
     },
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj": {
+    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj",
+        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj",
         "projectName": "Api_Crud_EF",
-        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj",
+        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF\\obj\\",
+        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -171,8 +179,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj": {
-                "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj"
+              "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj": {
+                "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj"
               }
             }
           }
@@ -190,6 +198,18 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

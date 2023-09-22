@@ -9,13 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Application", "02.Applic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Data", "03.Data", "{EF795F2D-4756-4C5F-86E1-B788C930E544}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.ScriptSql", "04.ScriptSql", "{A929CCB0-A41D-4551-A288-3A5F60B32D91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_Crud_EF", "Api_Crud_EF\Api_Crud_EF.csproj", "{FF75DDFD-40D9-4F50-9FAF-A6458544ED15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Crud_EF", "Api_Crud_EF\Api_Crud_EF.csproj", "{FF75DDFD-40D9-4F50-9FAF-A6458544ED15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_Crud_EF.Application", "Api_Crud_EF.Application\Api_Crud_EF.Application.csproj", "{625D379D-63D8-4005-8BDD-45ADBD20DF01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Crud_EF.Application", "Api_Crud_EF.Application\Api_Crud_EF.Application.csproj", "{625D379D-63D8-4005-8BDD-45ADBD20DF01}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Crud_EF.Data", "Api_Crud_EF.Data\Api_Crud_EF.Data.csproj", "{D9F72D8E-0681-4E29-89AA-425FFD825265}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_Crud_EF.Data", "Api_Crud_EF.Data\Api_Crud_EF.Data.csproj", "{D9F72D8E-0681-4E29-89AA-425FFD825265}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

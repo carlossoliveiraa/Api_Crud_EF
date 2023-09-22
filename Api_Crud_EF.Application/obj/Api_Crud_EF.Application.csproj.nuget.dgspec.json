@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {}
+    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
+    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
+        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
         "projectName": "Api_Crud_EF.Application",
-        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
+        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.Application\\obj\\",
+        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

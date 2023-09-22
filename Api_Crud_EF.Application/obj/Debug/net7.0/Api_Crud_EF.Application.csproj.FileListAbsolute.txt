@@ -9,3 +9,14 @@ C:\GIT\Api_Crud_EF\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\Api_Crud
 C:\GIT\Api_Crud_EF\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\refint\Api_Crud_EF.Application.dll
 C:\GIT\Api_Crud_EF\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\Api_Crud_EF.Application.pdb
 C:\GIT\Api_Crud_EF\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\ref\Api_Crud_EF.Application.dll
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\bin\Debug\net7.0\Api_Crud_EF.Application.deps.json
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\bin\Debug\net7.0\Api_Crud_EF.Application.dll
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\bin\Debug\net7.0\Api_Crud_EF.Application.pdb
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\Api_Crud_EF.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\Api_Crud_EF.Application.AssemblyInfoInputs.cache
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\Api_Crud_EF.Application.AssemblyInfo.cs
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\Api_Crud_EF.Application.csproj.CoreCompileInputs.cache
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\Api_Crud_EF.Application.dll
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\refint\Api_Crud_EF.Application.dll
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\Api_Crud_EF.Application.pdb
+C:\GIT\Api_Crud_EF\Api_Crud_EF.Application\obj\Debug\net7.0\ref\Api_Crud_EF.Application.dll
