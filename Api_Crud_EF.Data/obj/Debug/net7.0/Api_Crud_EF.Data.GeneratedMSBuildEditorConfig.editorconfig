@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Api_Crud_EF.Data
-build_property.ProjectDir = C:\GIT\Api_Crud_EF\Api_Crud_EF.Data\
+build_property.ProjectDir = C:\Projetos\.Net\Api_Crud_EF\Api_Crud_EF.Data\

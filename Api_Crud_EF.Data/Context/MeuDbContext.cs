@@ -20,6 +20,7 @@ namespace Api_Crud_EF.Data.Context
                 .HasMany(p => p.Enderecos)
                 .WithOne()
                 .OnDelete(DeleteBehavior.Cascade);
-        }
+           
+        }      
     }
 }

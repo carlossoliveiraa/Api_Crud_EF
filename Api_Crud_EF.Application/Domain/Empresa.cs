@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Api_Crud_EF.Application.Domain
+﻿namespace Api_Crud_EF.Application.Domain
 {
     public class Empresa : Entity
     {

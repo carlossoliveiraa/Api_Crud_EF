@@ -8,11 +8,11 @@ namespace Api_Crud_EF.Controllers
     [ApiController]
     public class EmpresaController : ControllerBase
     {
-        private readonly IEmpresaRepository _empresaRepository;
+        private readonly IEmpresaRepository _appEmpresa;
 
-        public EmpresaController(IEmpresaRepository empresaRepository)
+        public EmpresaController(IEmpresaRepository appEmpresa)
         {
-            _empresaRepository = empresaRepository;
+            _appEmpresa = appEmpresa;
         }
 
         [HttpPost]
@@ -23,7 +23,7 @@ namespace Api_Crud_EF.Controllers
                 return BadRequest("Empresa inválida");
             }
 
-            await _empresaRepository.Adicionar(empresa);
+            await _appEmpresa.Adicionar(empresa);
 
             return CreatedAtAction(nameof(ObterPorId), new { id = empresa.Id }, empresa);
         }
@@ -31,7 +31,7 @@ namespace Api_Crud_EF.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> ObterPorId(int id)
         {
-            var empresa = await _empresaRepository.ObterPorId(id);
+            var empresa = await _appEmpresa.ObterEmpresaComEndereco(id);
             if (empresa == null)
             {
                 return NotFound();
@@ -43,7 +43,7 @@ namespace Api_Crud_EF.Controllers
         [HttpGet]
         public async Task<IActionResult> ObterTodos()
         {
-            var empresas = await _empresaRepository.ObterTodos();
+            var empresas = await _appEmpresa.ObterTodos();
             return Ok(empresas);
         }
 
@@ -55,13 +55,13 @@ namespace Api_Crud_EF.Controllers
                 return BadRequest("Dados da empresa inválidos");
             }
 
-            var empresaExistente = await _empresaRepository.ObterPorId(id);
+            var empresaExistente = await _appEmpresa.ObterPorId(id);
             if (empresaExistente == null)
             {
                 return NotFound();
             }
 
-            await _empresaRepository.Atualizar(empresa);
+            await _appEmpresa.Atualizar(empresa);
 
             return NoContent();
         }
@@ -69,12 +69,12 @@ namespace Api_Crud_EF.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Remover(int id)
         {
-            var empresa = await _empresaRepository.ObterPorId(id);
+            var empresa = await _appEmpresa.ObterPorId(id);
             if (empresa == null)
             {
                 return NotFound();
             }
-            await _empresaRepository.Remover(id);
+            await _appEmpresa.Remover(id);
 
             return NoContent();
         }

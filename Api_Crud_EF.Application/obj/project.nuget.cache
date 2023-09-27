@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDtaePgrr/H2EOCX3dcOa2J9StdaPLQ1zIfMydFdNvNEgLStNYY9A6VXYp8mK2zqYy+nAAP7of3UNpZGGbXI1A==",
+  "dgSpecHash": "qHOrcajdl5/EJeiP5YD6VWupvfknCD8lbOqsUgW2Q4RZDTu4D+zKLkqrFpY+DZmM7HIUVeXWCgJBfgXWvLE1GA==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
+  "projectFilePath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

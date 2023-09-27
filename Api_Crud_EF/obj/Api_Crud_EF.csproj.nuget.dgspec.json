@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj": {}
+    "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
+    "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
+        "projectUniqueName": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
         "projectName": "Api_Crud_EF.Application",
-        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
-        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\obj\\",
+        "projectPath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,25 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj": {
+    "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj",
+        "projectUniqueName": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj",
         "projectName": "Api_Crud_EF.Data",
-        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj",
-        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\obj\\",
+        "projectPath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,15 +77,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
-                "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj"
+              "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj": {
+                "projectPath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Application\\Api_Crud_EF.Application.csproj"
               }
             }
           }
@@ -146,25 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj": {
+    "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj",
+        "projectUniqueName": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj",
         "projectName": "Api_Crud_EF",
-        "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj",
-        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF\\obj\\",
+        "projectPath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF\\Api_Crud_EF.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,15 +158,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj": {
-                "projectPath": "C:\\GIT\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj"
+              "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj": {
+                "projectPath": "C:\\Projetos\\.Net\\Api_Crud_EF\\Api_Crud_EF.Data\\Api_Crud_EF.Data.csproj"
               }
             }
           }
@@ -235,7 +220,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
