@@ -4,5 +4,5 @@ Modelos Anemicos de Dados.
 
 Rodar Migratitons na camada de Dados:
 
-add-migration Nome
-update-database
+# add-migration Nome
+# update-database
